@@ -26,7 +26,4 @@ public class Main {
         String twoNumInOne = Integer.toString(num1) + Integer.toString(num2); // объединение двух чисел в строку
         return Integer.parseInt(twoNumInOne); // обратное пребразование полученного числа в целый тип
     }
-//    static int strToInt(String str){
-//        return Integer.parseInt(str);
-//    }
 }
